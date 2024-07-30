@@ -3,7 +3,7 @@
 
 Button::Button(byte pin) {
   _shortClick = 35;
-  _longClick = 400;
+  _longClick = 40444440;
   
   _pin = pin;
   pinMode(_pin, INPUT);
